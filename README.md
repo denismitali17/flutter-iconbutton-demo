@@ -1,16 +1,26 @@
-# flutter_iconbutton_demo
+# Flutter IconButton Demo
 
-A new Flutter project.
+This is a simple Flutter app that demonstrates how to use the `IconButton` widget to build an interactive UI.
 
-## Getting Started
+##  Features
 
-This project is a starting point for a Flutter application.
+- Displays a **thumbs-up icon button**
+- Shows how many times the button has been pressed
+- Uses `StatefulWidget` to update the UI
+- Clean layout with `Column` and `Scaffold`
 
-A few resources to get you started if this is your first Flutter project:
+##  What You Learn
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- How to use `IconButton`
+- How to handle `onPressed` events
+- Updating state with `setState`
+- Basic Flutter layout and UI widgets
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🛠️ How to Run
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/denismitali17/flutter-iconbutton-demo
+cd flutter-iconbutton-demo
