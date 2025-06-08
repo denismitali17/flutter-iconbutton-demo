@@ -17,7 +17,7 @@ This is a simple Flutter app that demonstrates how to use the `IconButton` widge
 - Basic Flutter layout and UI widgets
 
 
-## 🛠️ How to Run
+##  How to Run
 
 1. Clone the repo:
 
@@ -36,3 +36,4 @@ flutter pub get
 
 ```bash
 flutter run
+```
