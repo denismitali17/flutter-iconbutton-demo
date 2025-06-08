@@ -24,3 +24,15 @@ This is a simple Flutter app that demonstrates how to use the `IconButton` widge
 ```bash
 git clone https://github.com/denismitali17/flutter-iconbutton-demo
 cd flutter-iconbutton-demo
+```
+
+2. Get depedencies:
+
+```bash
+flutter pub get
+```
+
+3. Run the app:
+
+```bash
+flutter run
